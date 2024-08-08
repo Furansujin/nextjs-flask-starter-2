@@ -34,3 +34,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 __pycache__
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/nextjs-flask-starter-2.iml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/yarn.lock
