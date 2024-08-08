@@ -1,5 +1,6 @@
+import {NextResponse} from "next/server";
 
 
 export async function POST(req: Request): Promise<Response> {
-    return res.status(200).json({text: 'Hello'});
+    return NextResponse.json({text: 'Hello'});
 }
